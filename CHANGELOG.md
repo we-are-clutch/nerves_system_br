@@ -12,6 +12,14 @@ follows:
    minor and patch releases. They're also made to fix bugs and add features to
    the build infrastructure.
 
+# v1.31.1
+
+This is a patch release that updates the Raspberry Pi camera packages.
+
+* Package updates
+  * rpi-libcamera v0.5.0+rpt20250429
+  * rpicam-apps 1.7.0
+
 # v1.31.0
 
 This is a major Buildroot update to 2025.02.1. It also includes a Mesa3D update
